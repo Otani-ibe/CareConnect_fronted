@@ -68,7 +68,7 @@ CareConnect bridges the gap between seniors seeking quality care and professiona
 5. **Open your browser**
    Navigate to `http://localhost:8080/` to view the application
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **React 18** - Modern UI library
@@ -89,7 +89,7 @@ CareConnect bridges the gap between seniors seeking quality care and professiona
 - **Prettier** - Code formatting
 - **TypeScript** - Static type checking
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -113,7 +113,7 @@ src/
 └── main.tsx           # Application entry point
 ```
 
-## 🔧 API Endpoints
+##  API Endpoints
 
 ### Authentication
 - `POST /auth/login` - User login
@@ -158,7 +158,7 @@ The application uses JWT (JSON Web Tokens) for secure authentication:
 - **Token Management** - Automatic token refresh and storage
 - **Session Persistence** - Maintains user sessions across browser sessions
 
-## 📱 Responsive Design
+## Responsive Design
 
 CareConnect is fully responsive and works on all devices:
 
@@ -193,12 +193,13 @@ npm run preview
 
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **shadcn/ui** for beautiful UI components
 - **Tailwind CSS** for utility-first styling
 - **React Team** for the amazing framework
 - **Vite** for the fast development experience
+
 
 
 **CareConnect** - Connecting seniors with quality care, one session at a time. ❤️
