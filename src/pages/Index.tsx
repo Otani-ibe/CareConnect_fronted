@@ -17,6 +17,7 @@ import {
   Calendar,
   Award
 } from 'lucide-react';
+import heroCareImage from '@/assets/hero-care.jpg';
 
 const Index: React.FC = () => {
   return (
@@ -91,7 +92,7 @@ const Index: React.FC = () => {
             <div className="relative">
               <div className="bg-gradient-to-br from-primary/20 to-secondary/20 rounded-3xl p-8">
                 <img 
-                  src="/src/assets/hero-care.jpg" 
+                  src={heroCareImage}
                   alt="Caregiver helping senior" 
                   className="rounded-2xl w-full h-auto shadow-2xl"
                 />
