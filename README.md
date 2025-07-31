@@ -39,34 +39,38 @@ CareConnect bridges the gap between seniors seeking quality care and professiona
 
 ### Installation
 
-1. **Clone the repository**
+1.  **Load the Backend**
+   https://careconnect-z20m.onrender.com
+
+2. **Clone the repository**
    ```bash
    git clone https://github.com/Otani-ibe/CareConnect_fronted
    cd careConnect_frontend
    ```
 
-2. **Install dependencies**
+3. **Install dependencies**
    ```bash
    npm install
    # or
    yarn install
    ```
 
-3. **Set up environment variables**
+4. **Set up environment variables**
    Create a `.env` file in the root directory:
    ```env
    VITE_API_URL=https://careconnect-z20m.onrender.com/api
    ```
 
-4. **Start the development server**
+5. **Start the development server**
    ```bash
    npm run dev
    # or
    yarn dev
    ```
 
-5. **Open your browser**
+6. **Open your browser**
    Navigate to `http://localhost:8080/` to view the application
+
 
 ## Technology Stack
 
