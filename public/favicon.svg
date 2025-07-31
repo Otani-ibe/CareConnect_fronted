@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Blue background -->
+  <rect width="32" height="32" fill="#1877F2" rx="4"/>
+  
+  <!-- White heart -->
+  <path d="M16 24.5c-0.5 0-1-0.2-1.4-0.6l-8.5-8.5c-2.3-2.3-2.3-6.1 0-8.4s6.1-2.3 8.4 0l1.5 1.5 1.5-1.5c2.3-2.3 6.1-2.3 8.4 0s2.3 6.1 0 8.4l-8.5 8.5c-0.4 0.4-0.9 0.6-1.4 0.6z" fill="white"/>
+</svg> 
